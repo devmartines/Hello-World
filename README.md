@@ -1,5 +1,1 @@
-# Hello-World
-
-Hi Humans!
-
-Martin here.
+# Hello-world
